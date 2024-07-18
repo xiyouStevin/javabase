@@ -1,4 +1,4 @@
-package com.dwh.common.Proxy.Customize;
+package com.dwh.common.Customize;
 
 import java.lang.reflect.Proxy;
 
